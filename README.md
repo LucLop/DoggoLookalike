@@ -2,7 +2,7 @@
 ## This is course project for the machine Leanring course.
 ## The goal of this project is to make a dog breed recongnition app using convolutionnal neural networks (CNN)
 
-Our app is a desktop application coded in JAVA
+Our app is a desktop application coded in JAVA.
 For our CNN we did all the code in PYTHON
 
 We could take an already trained CNN but that's not for us, we deceided to create our own CNN and train it by ourselves.
@@ -24,6 +24,19 @@ Part 1 : [How to generate your own .exe app (part 1)](https://medium.com/@vinayp
 
 Part 2 : [How to generate your own .exe app (part 2)](https://medium.com/@vinayprabhu19/creating-executable-javafx-application-part-2-c98cfa65801e)
 
+## Application screenshots & functionnalities
+
+IMAGE :
+
+You can either choose the Dog button or the Human Button, if you click Dog, you will be in the dog breed recongnition functionality. If you click Human you will be in the functionality that tells you which dog you look like. To give an image to our model you need to drag and drop the image (that's easy to do on a computer).
+
+Here you are in the dog functionality : IMAGE
+
+Once you've uploaded you image you got this : IMAGE
+
+And you can press the validate button to start the prediction, and if everything goes right you'll have the prediction label : IMAGE
+
+Here you are in the human functionality : IMAGE
 
 
 
