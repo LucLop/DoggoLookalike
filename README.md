@@ -27,7 +27,7 @@ Part 2 : [How to generate your own .exe app (part 2)](https://medium.com/@vinayp
 ## Application screenshots & functionnalities
 
 Menu : 
-![alt text](https://github.com/LucLop/DoggoLookalike/READMEPICTURES/DoggolookalikeMenu.png "Logo Title Text 1")
+![MENU](https://github.com/LucLop/DoggoLookalike/blob/master/READMEPICTURES/DoggolookalikeMenu.png "Logo Title Text 1")
 
 
 You can either choose the Dog button or the Human Button, if you click Dog, you will be in the dog breed recongnition functionality. If you click Human you will be in the functionality that tells you which dog you look like. To give an image to our model you need to drag and drop the image (that's easy to do on a computer).
