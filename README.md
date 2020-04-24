@@ -12,7 +12,7 @@ This project has two main features, the first one is to recognize the dog breed 
 Notebook of data Vizualiation, one Notebook for the model, and one Notebook to test the model.
 All the JAVA code.
 You will also find the .exe in the project files.
-Dataset of dog Images, by breed.
+You can download the dataset of dog Images, by breed at https://www.kaggle.com/miljan/stanford-dogs-dataset-traintest.
 
 ### Requirements
 To run our project you will need a java IDE (espacially Intellij Idea from JETBRAINS) and Launch4J (to create a .exe from the .jar file)
