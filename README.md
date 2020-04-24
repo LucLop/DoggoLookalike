@@ -8,6 +8,10 @@ For our CNN we did all the code in PYTHON
 We could take an already trained CNN but that's not for us, we deceided to create our own CNN and train it by ourselves.
 This project has two main features, the first one is to recognize the dog breed and the second one is to tell you which dog you look like.
 
+Link of our medium article : https://medium.com/@tatianameister.tm/dog-breed-classification-using-tensorflow-python3-and-java-7256c3f6193b?sk=c9fdce6384b126b16e8a18974c210e6c
+
+Link of our video :
+
 ## Files of this project
 Notebook of data Vizualiation, one Notebook for the model, and one Notebook to test the model.
 All the JAVA code.
