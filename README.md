@@ -2,8 +2,8 @@
 ## This is course project for the machine Leanring course.
 ## The goal of this project is to make a dog breed recongnition app using convolutionnal neural networks (CNN)
 
-Our app is a desktop application coded in JAVA.
-For our CNN we did all the code in PYTHON
+Our app is a desktop application coded in JAVA using JAVAFX to build the app.
+For our CNN we did all the code in PYTHON3, using Tensorflow.
 
 We could take an already trained CNN but that's not for us, we deceided to create our own CNN and train it by ourselves.
 This project has two main features, the first one is to recognize the dog breed and the second one is to tell you which dog you look like.
@@ -53,7 +53,21 @@ You can either choose the Dog button or the Human Button, if you click Dog, you 
 ![Dog Label !](https://github.com/LucLop/DoggoLookalike/blob/master/READMEPICTURES/DogPredictionFunc.png "Dog Label !")
 
 
-Here you are in the human functionality : IMAGE
+### Here you are in the human functionality : 
+
+![Human!](https://github.com/LucLop/DoggoLookalike/blob/master/READMEPICTURES/human.png "Human")
+
+
+### When you uploaded an image :
+
+![HumanUpload](https://github.com/LucLop/DoggoLookalike/blob/master/READMEPICTURES/humanres.png "HumanUpload")
+
+### Human prediction :
+
+![HumanPrediction](https://github.com/LucLop/DoggoLookalike/blob/master/READMEPICTURES/humanselfie.png "HumanPrediction")
+
+
+
 
 
 
