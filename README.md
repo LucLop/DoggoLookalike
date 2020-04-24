@@ -10,7 +10,7 @@ This project has two main features, the first one is to recognize the dog breed 
 
 Link of our medium paper : https://medium.com/@tatianameister.tm/dog-breed-classification-using-tensorflow-python3-and-java-7256c3f6193b?sk=c9fdce6384b126b16e8a18974c210e6c
 
-Link of our video :
+Link of our video : https://youtu.be/6PAuCGeAw4g
 
 ## Files of this project
 Notebook of data Vizualiation, one Notebook for the model, and one Notebook to test the model.
