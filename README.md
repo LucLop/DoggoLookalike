@@ -3,14 +3,18 @@
 ## The goal of this project is to make a dog breed recongnition app using convolutionnal neural networks (CNN)
 
 Our app is a desktop application coded in JAVA using JAVAFX to build the app.
-For our CNN we did all the code in PYTHON3, using Tensorflow.
+For our CNN we did all the code in PYTHON3.
+You will also have to install Tensorflow, Keras, Pandas and JAVAFX Library if you want to run our JAVA code (but you don't need it to launch the .Exe file)
 
 We could take an already trained CNN but that's not for us, we deceided to create our own CNN and train it by ourselves.
 This project has two main features, the first one is to recognize the dog breed and the second one is to tell you which dog you look like.
 
-Link of our medium paper : https://medium.com/@tatianameister.tm/dog-breed-classification-using-tensorflow-python3-and-java-7256c3f6193b?sk=c9fdce6384b126b16e8a18974c210e6c
+## Article and Video of the project :
 
-Link of our video : https://youtu.be/6PAuCGeAw4g
+[Medium paper about this project](https://medium.com/@tatianameister.tm/dog-breed-classification-using-tensorflow-python3-and-java-7256c3f6193b?sk=c9fdce6384b126b16e8a18974c210e6c)
+
+[Video showing the project's results](https://youtu.be/6PAuCGeAw4g)
+
 
 ## Files of this project
 Notebook of data Vizualiation, one Notebook for the model, and one Notebook to test the model.
