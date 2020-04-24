@@ -60,11 +60,11 @@ You can either choose the Dog button or the Human Button, if you click Dog, you 
 
 ### When you uploaded an image :
 
-![HumanUpload](https://github.com/LucLop/DoggoLookalike/blob/master/READMEPICTURES/humanres.png "HumanUpload")
+![HumanUpload](https://github.com/LucLop/DoggoLookalike/blob/master/READMEPICTURES/humanselfie.png "HumanUpload")
 
 ### Human prediction :
 
-![HumanPrediction](https://github.com/LucLop/DoggoLookalike/blob/master/READMEPICTURES/humanselfie.png "HumanPrediction")
+![HumanPrediction](https://github.com/LucLop/DoggoLookalike/blob/master/READMEPICTURES/humanres.png "HumanPrediction")
 
 
 
