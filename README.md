@@ -1,6 +1,6 @@
 
-## This is course project for the machine Leanring course.
-## The goal of this project is to make a dog breed recongnition app using convolutionnal neural networks (CNN)
+## This is a project for our Machine Learning course.
+## The goal of this project is to make a dog breed recognition app using convolutionnal neural networks (CNN)
 
 Our app is a desktop application coded in JAVA using JAVAFX to build the app.
 For our CNN we did all the code in PYTHON3.
